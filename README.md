@@ -9,4 +9,4 @@
 
 ## 📋 Licença
 
-[MIT license](https://opensource.org/license/mit)
+Este projeto utiliza a licença [MIT](https://opensource.org/license/mit)
