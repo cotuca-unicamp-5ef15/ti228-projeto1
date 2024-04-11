@@ -8,3 +8,5 @@
 ## 📝 Descrição
 
 ## 📋 Licença
+
+[MIT license](https://opensource.org/license/mit)
